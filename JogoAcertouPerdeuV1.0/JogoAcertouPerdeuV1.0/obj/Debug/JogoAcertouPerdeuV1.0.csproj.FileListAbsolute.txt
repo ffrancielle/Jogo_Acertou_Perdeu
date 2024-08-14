@@ -1,0 +1,7 @@
+C:\Users\Francielle\source\repos\JogoAcertouPerdeuV1.0\JogoAcertouPerdeuV1.0\bin\Debug\JogoAcertouPerdeuV1.0.exe.config
+C:\Users\Francielle\source\repos\JogoAcertouPerdeuV1.0\JogoAcertouPerdeuV1.0\bin\Debug\JogoAcertouPerdeuV1.0.exe
+C:\Users\Francielle\source\repos\JogoAcertouPerdeuV1.0\JogoAcertouPerdeuV1.0\bin\Debug\JogoAcertouPerdeuV1.0.pdb
+C:\Users\Francielle\source\repos\JogoAcertouPerdeuV1.0\JogoAcertouPerdeuV1.0\obj\Debug\JogoAcertouPerdeuV1.0.csproj.AssemblyReference.cache
+C:\Users\Francielle\source\repos\JogoAcertouPerdeuV1.0\JogoAcertouPerdeuV1.0\obj\Debug\JogoAcertouPerdeuV1.0.csproj.CoreCompileInputs.cache
+C:\Users\Francielle\source\repos\JogoAcertouPerdeuV1.0\JogoAcertouPerdeuV1.0\obj\Debug\JogoAcertouPerdeuV1.0.exe
+C:\Users\Francielle\source\repos\JogoAcertouPerdeuV1.0\JogoAcertouPerdeuV1.0\obj\Debug\JogoAcertouPerdeuV1.0.pdb
